@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Thirty Days</string>
+    <string name="day1">Day 1</string>
+    <string name="title1">The Flutter Framework</string>
+    <string name="description1">Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase</string>
+    <string name="appbar_title">7 Days of Code</string>
+    <string name="day2">Day 2</string>
+    <string name="title2">Jetpack Compose</string>
+    <string name="description2">Jetpack Compose is Android\'s recommended modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs</string>
+    <string name="day3">Day 3</string>
+    <string name="title3">Android</string>
+    <string name="description3">Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets</string>
+    <string name="day4">Day 4</string>
+    <string name="title4">Kotlin</string>
+    <string name="description4">Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin\'s standard library depends on the Java Class Library, but type inference allows its syntax to be more concise</string>
+    <string name="day5">Day 5</string>
+    <string name="title5">Compose Multiplatform</string>
+    <string name="description5">Fast reactive Desktop and Web UI framework for Kotlin, based on Google’s modern toolkit and brought to you by JetBrains. Compose Multiplatform simplifies and accelerates UI development for Desktop and Web applications, and allows extensive UI code sharing between Android, Desktop and Web.</string>
+    <string name="day6">Day 6</string>
+    <string name="title6">Wear OS</string>
+    <string name="description6">Wear OS is a version of Google\'s Android operating system designed for smartwatches and other wearables</string>
+    <string name="day7">Day 7</string>
+    <string name="title7">Android Studio</string>
+    <string name="description7">Android Studio is the official integrated development environment for Google\'s Android operating system, built on JetBrains\' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating systems</string>
+</resources>

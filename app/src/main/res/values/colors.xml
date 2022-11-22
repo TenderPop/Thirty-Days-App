@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryLightColor">#6A2C70</color>
+    <color name="primaryDarkColor">#3d0044</color>
+    <color name="appbarLightColor">#F08A5D</color>
+    <color name="appbarDarkColor">#FFb95b32</color>
+    <color name="secondaryDarkColor">#0086c3</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+</resources>
